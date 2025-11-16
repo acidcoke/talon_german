@@ -1,20 +1,20 @@
 mode: user.german
 language: de_DE
 -
-(Tracking | Racing) an:
+Tracking an:
     tracking.control_toggle(true)
 
-(Tracking | Racing) aus:
+Tracking aus:
     tracking.control_toggle(false)
 
-(Tracking | Racing) Augen:
+Tracking Augen:
     tracking.control_gaze_toggle()
 
-(Tracking | Racing) (Kopf | cup):
+Tracking Kopf:
     tracking.control_head_toggle()
 
-(Tracking | Racing) kalibrieren:
+Tracking kalibrieren:
     tracking.calibrate()
 
-(Tracking | Racing) Testmodus:
+Tracking Testmodus:
     tracking.control_debug_toggle()
